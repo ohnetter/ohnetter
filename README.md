@@ -8,7 +8,7 @@ I am currently learning Web Development through the Generation USA program.
 
 * 🌍  I'm based in Harrisburg
 * ✉️  You can contact me at [ohnetter@gmail.com](mailto:ohnetter@gmail.com)
-* 🧠  I'm learning Css
+* 🧠  I'm learning HTML, CSS, Javascript, Boostrap and more...
 * 🤝  I'm open to collaborating on Beginner projects
 
 ### Skills
