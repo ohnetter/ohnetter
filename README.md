@@ -1,10 +1,10 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Annette Sheriff
 =======================================================================================================================================
 
-Jr. Web Developer
+Web Developer
 -----------------
 
-I am currently learning Web Development through the Generation USA program.
+I am a graduate from the Web Development Bootcamp through Generation USA.
 
 * 🌍  I'm based in Harrisburg
 * ✉️  You can contact me at [ohnetter@gmail.com](mailto:ohnetter@gmail.com)
