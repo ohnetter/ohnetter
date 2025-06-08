@@ -1,25 +1,37 @@
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Annette Sheriff
-=======================================================================================================================================
+# Hi 👋 My name is Annette Sheriff
 
-Web Developer
------------------
+### 🌸 Web Developer · Designer · Cozy Dev with Calm Energy
 
-I am a graduate from the Web Development Bootcamp through Generation USA.
+I'm a front-end web developer with a love for creating **cute, calming tools** that blend creativity and code.  
+My favorite projects are ones that help people **breathe, slow down, and feel a little more human** 💻🌿
 
-* 🌍  I'm based in Harrisburg
-* ✉️  You can contact me at [ohnetter@gmail.com](mailto:ohnetter@gmail.com)
-* 🧠  I'm learning HTML, CSS, Javascript, Boostrap and more...
-* 🤝  I'm open to collaborating on Beginner projects
+---
 
-### Skills
+### 🌍 About Me
 
+- 📍 Based in Harrisburg, PA  
+- 💌 Contact: [ohnetter@gmail.com](mailto:ohnetter@gmail.com)  
+- 🎓 Graduate of the Web Development Bootcamp @ Generation USA  
+- 🧠 Currently learning: JavaScript, GitHub, Figma, and animation tools  
+- 🤝 Open to collaborating on beginner-friendly creative projects  
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+---
 
+### 🛠 Skills
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+
+---
+
+### ☕ Support My Work
+
+If you'd like to help me keep building soft, gentle digital tools:  
+[🌸 Buy Me a Coffee](https://coff.ee/ohnetter)
+
+---
+
+Thanks for stopping by! I’m always learning, always tinkering, and always down to build something lovely 🌼
